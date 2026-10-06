@@ -1,1 +1,2 @@
 GitOps Lab 02 application file
+Login feature implemented
