@@ -1,2 +1,3 @@
 GitOps Lab 02 application file
 Login feature implemented
+Student profile feature
